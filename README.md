@@ -27,5 +27,6 @@ This repository has two sections:
 
 - Problem 1: [Two Sum](src/main/java/com/example/leetcode/hashMap/TwoSum.java)
 - Problem 3: [Longest Substring Without Repeating Characters](src/main/java/com/example/leetcode/hashSet/LongestSubstringWithoutRepeatingCharacters.java)
+- Problem 217: [Contains Duplicate](src/main/java/com/example/leetcode/hashMap/ContainsDuplicate.java)
 
 
