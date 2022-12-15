@@ -25,8 +25,9 @@ This repository has two sections:
 
 **Problems:**
 
-- Problem 1: [Two Sum](src/main/java/com/example/leetcode/hashMap/TwoSum.java)
-- Problem 3: [Longest Substring Without Repeating Characters](src/main/java/com/example/leetcode/hashSet/LongestSubstringWithoutRepeatingCharacters.java)
-- Problem 217: [Contains Duplicate](src/main/java/com/example/leetcode/hashMap/ContainsDuplicate.java)
-
-
+- Problem 1: [Two Sum](src/main/java/com/example/leetcode/hashmap/TwoSum.java)
+- Problem 3: [Longest Substring Without Repeating Characters](src/main/java/com/example/leetcode/hashset/LongestSubstringWithoutRepeatingCharacters.java)
+- Problem 217: [Contains Duplicate](src/main/java/com/example/leetcode/hashmap/ContainsDuplicate.java)
+- Problem 242: [ValidAnagram](src/main/java/com/example/leetcode/arrays/ValidAnagram.java)
+- Problem 392: [Is Subsequence](src/main/java/com/example/leetcode/twopointers/IsSubsequence.java)
+- Problem 1299: [Replace Elements with Greatest Element on Right Side](src/main/java/com/example/leetcode/arrays/ReplaceElementsWithGreatestElementOnRightSide.java)

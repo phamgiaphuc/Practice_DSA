@@ -1,4 +1,4 @@
-package com.example.leetcode.hashSet;
+package com.example.leetcode.hashset;
 
 /*
  * 3. Longest Substring Without Repeating Characters
